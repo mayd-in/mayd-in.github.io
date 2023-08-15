@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mayd.in/sitemap.xml
