@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "M. Mustafa AYDIN",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "me@mayd.in",
+    "url": "https://mayd.in",
+    "linkedin": "https://www.linkedin.com/in/mayd-in/",
+    "summary": "Passionate person about designing and building new things",
+    "location": {
+      "city": "Istanbul",
+      "countryCode": "TR"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Siemens",
+      "position": "Software Engineer",
+      "startDate": "2021-08-01",
+      "summary": "Firmware development for Siemens Unified Comfort Panels",
+      "highlights": [
+        "Human machine interface application using C++ and Qt",
+        "Linux networking (nmcli, ip)",
+        "Linux systemd software suit",
+        "Filesystems (btrfs, overlayfs) and utilities (fdisk, fsck)",
+        "LVM (Logical Volume Management) and tools",
+        "Architecture design using UML (mostly sequence and use-case diagrams)",
+        "Microsoft Azure DevOps (TFS) CI/CD pipeline integration of",
+        "firmware components (using Git)",
+        "Test automation with Robot Framework and PyTest",
+        "Docker for build environment",
+        "Agile/Scrum methodology"
+      ]
+    },
+    {
+      "name": "Simsoft",
+      "position": "Software Engineer",
+      "startDate": "2021-04-01",
+      "endDate": "2021-06-01",
+      "summary": "Ship simulator visualization improvements with Qt and C++",
+      "highlights": [
+        "Application that runs on multiple computers interconnected for graphical visualization"
+      ]
+    },
+    {
+      "name": "Ravinspect",
+      "position": "Software Engineer",
+      "startDate": "2020-02-01",
+      "endDate": "2021-04-01",
+      "summary": "Drone control panel development using Python and Qt",
+      "highlights": [
+        "ROS (Robot Operating System) modules written in C++",
+        "Warehouse modeling application written with pure Qt by following MVC (Model-View-Controller) pattern",
+        "3D visualization for drone monitoring using Qt 3D",
+        "TCP/IP message exchange framework based on publisher-subscriber architecture",
+        "Bash scripts to be run in Linux on NVidia Jetson"
+      ]
+    },
+    {
+      "name": "National Software Certification Center at ITU",
+      "position": "Intern",
+      "startDate": "2019-09-01",
+      "endDate": "2020-01-01",
+      "summary": "Academic research about earthquake forecasting",
+      "highlights": [
+        "Earthquake precursory electric field signal analysis",
+        "Machine learning tools and neural networks",
+        "Tensorflow",
+        "numpy",
+        "scikit",
+        "Data acquisition protocol for signal data"
+      ]
+    },
+    {
+      "name": "Freelance",
+      "position": "Software Developer",
+      "startDate": "2017-10-01",
+      "endDate": "2018-03-01",
+      "summary": "Android application has been developed for a medical clinic to carry out surveys",
+      "highlights": [
+        "Qt",
+        "C++",
+        "Flask",
+        "Javascript",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Marmara University, Istanbul, Turkey",
+      "url": "https://www.marmara.edu.tr/en",
+      "area": "Industrial Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2021-01-01",
+      "score": "",
+      "courses": [
+        "Quality Control",
+        "Quality Assurance",
+        "Software Quality",
+        "Scrum",
+        "Kanban"
+      ]
+    },
+    {
+      "institution": "Istanbul Technical University, Istanbul, Turkey",
+      "url": "https://www.itu.edu.tr/en/homepage",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2014-01-01",
+      "endDate": "2020-01-01",
+      "score": "",
+      "courses": [
+        "Database Management Systems",
+        "SQL and ORM",
+        "Microprocessor Systems",
+        "Assembly language",
+        "Computer Architecture",
+        "CISC and RISC",
+        "CPU pipelines",
+        "System Programming",
+        "Custom file system and driver",
+        "Project Management",
+        "SDLC and methodologies",
+        "Testing and quality assurance"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Turkish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
