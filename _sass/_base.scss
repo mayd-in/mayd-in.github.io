@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: $base-font-family;
 }
 
 hr {
@@ -167,6 +168,7 @@ blockquote {
 // Navbar customization
 
 .navbar {
+  font-family: $header-font-family;
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
@@ -427,6 +429,7 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
+  font-family: $header-font-family;
 }
 
 .post-list {
@@ -727,6 +730,7 @@ figure.highlight {
 }
 
 pre {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   color: var(--global-theme-color);
   background-color: var(--global-code-bg-color);
   border-radius: 6px;
@@ -739,9 +743,14 @@ pre {
     margin-bottom: 0;
     padding: 0;
   }
+
+  span {
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
 }
 
 code {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   color: var(--global-theme-color);
   background-color: var(--global-code-bg-color);
   border-radius: 3px;
